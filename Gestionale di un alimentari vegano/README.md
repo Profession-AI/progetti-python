@@ -105,6 +105,4 @@ chiudi: esci dal programma
 
 Inserisci un comando: chiudi
 Bye bye
-
-
 ```
