@@ -21,11 +21,10 @@ In particolare dovrai implementare le seguenti funzioni:
 
 Salva poi la classifica in un file di testo di tipo txt con il seguente formato:
 
+```
 Drivers Standings 2008 Formula 1
-
 NomePilota1: PunteggioTotale
-
 NomePilota2: PunteggioTotale…
-
+```
 
 3. Una funzione che non riceve alcun parametro in ingresso e deve restituire un dizionario formato da coppie chiave valore, dove la chiave è una stringa che contiene il nome del costruttore, mentre il valore associato alla chiave è un intero che rappresenta il totale dei punti che il costruttore ha conseguito alla fine del campionato mondiale. I punti conseguiti da un costruttore sono la somma dei punti che i piloti che corrono per il costruttore hanno conseguito durante l’anno.Per fare ciò, utilizza i dati salvati sul file creato precedentemente
