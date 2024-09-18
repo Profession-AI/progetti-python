@@ -62,3 +62,5 @@ Durante lo scraping, è fondamentale gestire le eccezioni per evitare che lo scr
 ### Conclusione
 
 Questo progetto di scraping fornirà a BookSmart Solutions una base dati completa e aggiornata delle offerte concorrenti, dando un importante vantaggio competitivo nel settore dell'e-commerce di libri. Grazie a queste informazioni, l'azienda potrà ottimizzare le proprie strategie di marketing e vendita, migliorando l'efficacia complessiva delle sue operazioni.
+
+# Modalità di consegna: notebook su google colab
