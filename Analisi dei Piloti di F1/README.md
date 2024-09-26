@@ -1,4 +1,4 @@
-# Progetto: Analisi dei Piloti del Mondiale di Formula 1
+# Analisi dei Piloti del Mondiale di Formula 1
 
 ## Descrizione del progetto
 
@@ -28,7 +28,7 @@ Al termine di ogni Gran Premio, i punti vengono assegnati ai piloti in base al l
 - 8° posto: **1 punto**
 - 9° posto o oltre: **0 punti**
 
-
+# Modalità di consegna: link al notebook di Google Colab
 
 ## Obiettivi del progetto
 

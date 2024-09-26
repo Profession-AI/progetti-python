@@ -121,3 +121,5 @@ Bye bye
 8. Nel lavoro è fondamentale seguire sempre le specifiche che ci vengono date alla lettera, quindi il programma deve contenere esattamente le funzioni specificate e deve produrre esattamente l'output dell'esempio se riceve lo stesso input.
 9. I nomi di variabili, funzioni e metodi vanno sempre scritti in inglese, utilizzando lo snake case, il CamelCase va usato solo per i nomi di classi. Non mischiare italiano e inglese, sempre e solo inglese.
 10. Utilizza le docstrings per documentare funzioni, classi e metodi.
+
+# Modalità di consegna: link al notebook di Google Colab

@@ -30,3 +30,5 @@ Questi sono esempi di domande alla quale puoi trovare risposta tramite i dati, m
 Crea un cartogramma che rappresenti il numero di incidenti per nazione.
 
 [Link al dataset](https://proai-datasets.s3.eu-west-3.amazonaws.com/aviation-accidents.csv)
+
+# Modalità di consegna: link al notebook di Google Colab
