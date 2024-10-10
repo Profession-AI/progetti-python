@@ -1,6 +1,6 @@
 # Software gestionale per BioMarket
 
-BioMarket, una catena di negozi specializzata in prodotti vegani, ha aperto un nuovo negozio in Via Tan 6 e ha necessità di un **software gestionale** semplice e funzionale per la gestione dell’inventario e delle vendite. Il software dovrà essere **testuale**, accessibile da **riga di comando**, e garantire la **persistenza dei dati** attraverso file di testo per permettere di conservare le informazioni anche tra diverse esecuzioni del programma.
+BioMarket, una catena di negozi specializzata in prodotti vegani, ha aperto un nuovo negozio in Via Tan 6 e ha necessità di un **software gestionale** semplice e funzionale per la gestione dell’inventario e delle vendite. Il software dovrà essere **testuale**, accessibile da **riga di comando**, e garantire la **persistenza dei dati** attraverso file di testo per permettere di conservare le informazioni.
 
 ## Obiettivi del Software
 
