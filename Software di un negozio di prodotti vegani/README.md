@@ -71,5 +71,3 @@ latte di soia | 20 | €1.40
 
 Il software gestionale sviluppato per BioMarket permetterà di ottimizzare le operazioni quotidiane del negozio, rendendo la gestione del magazzino e delle vendite più efficiente e trasparente. Con la possibilità di tracciare i profitti in tempo reale e tenere sotto controllo l'inventario, BioMarket potrà focalizzarsi sull'espansione del business e sulla crescita sostenibile.
 
-
-# Modalità di consegna: notebook di Google Colab

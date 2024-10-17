@@ -71,5 +71,3 @@ Il codice Python sarà ampiamente documentato, con commenti chiari che descrivon
 ## Conclusione
 
 L'applicazione di gestione delle spese domestiche offre una soluzione semplice ma potente per il monitoraggio finanziario. Fornirà agli utenti gli strumenti per una gestione più consapevole delle spese e delle entrate, favorendo la trasparenza e l'efficienza nella pianificazione del budget personale o familiare.
-
-# Modalità di consegna: link al notebook di Google Colab

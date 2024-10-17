@@ -122,4 +122,3 @@ Bye bye
 9. I nomi di variabili, funzioni e metodi vanno sempre scritti in inglese, utilizzando lo snake case, il CamelCase va usato solo per i nomi di classi. Non mischiare italiano e inglese, sempre e solo inglese.
 10. Utilizza le docstrings per documentare funzioni, classi e metodi.
 
-# Modalità di consegna: link al notebook di Google Colab

@@ -56,5 +56,3 @@ Analizzare il **volume medio giornaliero di scambi** per ciascun indice. Questo 
 - I **rendimenti percentuali** verranno calcolati come variazione percentuale del prezzo di chiusura rispetto al periodo precedente (giornaliero, mensile o annuale).
 - Per il **rendimento medio giornaliero**, i dati verranno aggregati in base al giorno della settimana per ciascun indice.
 - Per i **giorni con rendimento massimo e minimo**, verranno individuati i valori estremi del rendimento giornaliero nei due dataset.
-
-# Modalità di consegna: link al notebook di Google Colab

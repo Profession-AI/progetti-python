@@ -9,7 +9,7 @@ Questo file contiene informazioni dettagliate sui piloti, i costruttori, le citt
 
 ## Dataset
 
-Il dataset `formula1_data.csv` (scaricabile da qui: https://proai-datasets.s3.eu-west-3.amazonaws.com/formula1_data.csv) contiene le seguenti colonne:
+Il dataset `formula1_data.csv` (scaricabile da qui: [https://proai-datasets.s3.eu-west-3.amazonaws.com/formula1_data.csv](https://proai-datasets.s3.eu-west-3.amazonaws.com/formula1_data.csv)) contiene le seguenti colonne:
 1. **Driver**: Nome del pilota.
 2. **Team**: Nome del costruttore per il quale il pilota gareggia.
 3. **Race**: Città in cui si è svolto il Gran Premio.

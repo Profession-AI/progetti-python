@@ -21,4 +21,3 @@ ContactEase Solutions fornirà un’applicazione console interattiva che, grazie
 
 **Interfaccia Utente**: L’interfaccia sarà basata su riga di comando, offrendo un menu principale con opzioni chiare per le varie operazioni, garantendo così una user experience fluida e accessibile anche per gli utenti meno esperti.
 
-# Modalità di consegna: link al notebook di Google Colab
