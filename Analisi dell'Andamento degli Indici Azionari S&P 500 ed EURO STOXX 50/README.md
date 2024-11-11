@@ -13,7 +13,7 @@ L'analisi fornita da **Global Investment Insights** offrirà agli investitori un
 ## Obiettivi del progetto
 
 L'analisi prevede i seguenti step:
-- **Calcolo del rendimento percentuale mensile e annuale** (basato su 20 giorni di borsa per il rendimento mensile e 252 giorni di borsa per il rendimento annuale).
+- **Calcolo del rendimento percentuale mensile e annuale**.
 - **Calcolo del rendimento medio giornaliero** per ciascun indice e per ciascun giorno della settimana.
 - **Individuazione dei giorni con il rendimento giornaliero più alto e più basso** per entrambi gli indici.
 - **Calcolo del volume medio giornaliero** di scambi per ciascun indice.
@@ -35,9 +35,9 @@ I dataset forniti, `sp500.csv` per l'indice S&P 500 e `euro50.csv` per l'indice 
 
 ### 1. Calcolo del rendimento percentuale
 
-Per ciascun indice, sarà calcolato il **rendimento percentuale** utilizzando la formula della variazione percentuale tra i prezzi di chiusura:
-- **Rendimento mensile**: calcolato su un periodo di 20 giorni di borsa.
-- **Rendimento annuale**: calcolato su un periodo di 252 giorni di borsa.
+Per ciascun indice, sarà calcolato il **rendimento percentuale** utilizzando la formula della variazione percentuale tra i prezzi di chiusura di un periodo rispetto al periodo precedente:
+- **Rendimento mensile**
+- **Rendimento annuale**
 
 ### 2. Rendimento medio giornaliero per giorno della settimana
 
