@@ -24,7 +24,28 @@ Implementare un'API REST utilizzando Flask o FastAPI per esporre le funzionalit�
 #### **Tecnologie**
 - Backend:
   - Python con Flask o FastAPI.
-  - Modellazione basata sul progetto di riconoscimento della lingua sviluppato in precedenza.
+  - Il modello di riconoscimento della lingua è disponibile a questo link: [https://github.com/Profession-AI/progetti-python/raw/refs/heads/main/Messa%20in%20produzione%20di%20un%20sistema%20per%20il%20riconoscimento%20della%20lingua%20di%20testi%20per%20un%20museo/language_detection_pipeline.pkl](https://github.com/Profession-AI/progetti-python/raw/refs/heads/main/Messa%20in%20produzione%20di%20un%20sistema%20per%20il%20riconoscimento%20della%20lingua%20di%20testi%20per%20un%20museo/language_detection_pipeline.pkl). È un file pickle che si può importare. Il metodo `predict()` dell'oggetto in esso conteuto consente di ottenere la previsione della lingua.
+
+
+Esempio di utilizzo del modello:
+
+```python
+import pickle
+
+# Scarica, nella cartella corrente, il file pkl dalla URL fornita
+
+# Carica il file
+filename = 'language_detection_pipeline.pkl'
+loaded_pipeline = pickle.load(open(filename, 'rb'))
+
+# Testo di cui effettuare la previsione (si tratta di una lista di stringhe)
+text_to_predict = ["Questo è un testo di esempio in italiano."]
+
+# Previsione
+predicted_language = loaded_pipeline.predict(text_to_predict)
+
+print(f"Predicted language: {predicted_language[0]}")
+```
 
 #### **Funzionalità dell'API**
 1. **Endpoint:**
