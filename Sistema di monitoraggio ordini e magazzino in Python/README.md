@@ -58,7 +58,7 @@ Dati di esempio da includere nel notebook:
 - Lista ordini: file con colonne come IDOrdine, Data, Cliente, Stato (nuovo/evaso/parziale), ElencoProdotti (codice+quantità).
 - Storico operazioni: file log delle operazioni (timestamp, operazione, risorsa, dettaglio).
 
-I file dovrebbero essere in formati standard (ad es. CSV o JSON) per permettere il caricamento e il salvataggio dello stato.
+I file dovrebbero essere in formati standard (ad es. CSV o JSON) per permettere il caricamento e il salvataggio dello stato. Alla prima esecuzione del programma, se i file non esistono già, il programma deve crearli con dati iniziali simulati per gli scopi di questo esercizio.
 
 
 ## Casi di test e scenari di valutazione
