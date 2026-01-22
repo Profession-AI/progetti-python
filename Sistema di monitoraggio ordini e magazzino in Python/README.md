@@ -4,7 +4,7 @@
 
 L'azienda **LogiServe S.r.l.** è una piccola realtà di e-commerce B2B specializzata nella distribuzione di componenti elettrici per officine e rivenditori. Il progetto mira a sviluppare un applicativo a riga di comando o con interfaccia testuale per la gestione del magazzino e degli ordini. L'obiettivo è simulare una soluzione gestionale reale che consenta di registrare nuovi ordini, aggiornare le giacenze dei prodotti, consultare lo stato del magazzino in tempo reale e generare report giornalieri utili per le decisioni operative.
 
-Il progetto pone particolare attenzione a chiarezza, modularità e manutenibilità del codice, e sarà consegnato come notebook Google Colab contenente la descrizione del progetto, i dati di esempio, e le istruzioni per l'uso.
+Il progetto pone particolare attenzione a chiarezza, modularità e manutenibilità del codice, e sarà consegnato come file Python contenente la descrizione del progetto, i dati di esempio, e le istruzioni per l'uso.
 
 LogiServe riceve quotidianamente ordini da clienti ricorrenti e nuovi rivenditori. Per evitare rotture di stock, gestire le priorità di evasione e fornire report giornalieri al responsabile di magazzino, l'azienda necessita di uno strumento semplice ma affidabile che:
 
@@ -52,7 +52,7 @@ Funzionalità principali (requisiti funzionali)
 
 ## Dati e formato dei file 
 
-Dati di esempio da includere nel notebook:
+Dati di esempio da includere nel file Python:
 
 - Catalogo prodotti: file con colonne come CodiceProdotto, Nome, Categoria, GiacenzaIniziale, PuntoRiordino, UnitàMisura.
 - Lista ordini: file con colonne come IDOrdine, Data, Cliente, Stato (nuovo/evaso/parziale), ElencoProdotti (codice+quantità).
